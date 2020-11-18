@@ -1,0 +1,28 @@
+{
+  "title": "Goku-nLite",
+  "subtitle" : "A 2nd generation prototype for Rémi",
+  "pixlength": 28,
+  "rebuild": false,
+  "blocks" : [
+    {
+    "start": 0,
+    "end": 7,
+    "name": "landscape right"
+    },
+    {
+    "start": 8,
+    "end": 15,
+    "name": "Genkidama"
+    },
+    {
+    "start": 16,
+    "end": 19,
+    "name": "sky"
+    },
+    {
+    "start": 20,
+    "end": 27,
+    "name": "landscape left"
+    }
+  ]
+}

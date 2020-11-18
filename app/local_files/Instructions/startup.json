@@ -1,0 +1,10 @@
+{
+    "type" : "boot",
+    "time" : null,
+    "stack" : [
+        {
+            "function" : "setColor",
+            "args":"[255, 255, 255, 1]"
+        }
+    ]
+}
